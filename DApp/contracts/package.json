@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"decyphertv": "latest",
+		"ethereum-ens": "^0.7.3",
+		"solc": "^0.4.19",
+		"web3": "latest"
+	}
+}
